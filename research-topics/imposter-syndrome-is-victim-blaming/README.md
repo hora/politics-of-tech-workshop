@@ -9,12 +9,14 @@ As a group, decide when in the 60 minutes you want to take your break.
 
 2. If you're the note taker, create [a new secret
    gist](https://gist.github.com/) and copy the contents of this markdown file
-   into it. As you go through the rest of the questions, answer them and take
-   notes in the gist you just created.
+   into it. As you go through the rest of the questions, answer them as a group
+   and have the note taker keep notes of your conversation in the gist you just
+   created.
 
-   Hint: to copy the contents of this file, click the <kbd>Raw</kbd> button at
-   the top right. Then, use <kbd>Cmd/ctrl + A</kbd> then <kbd>Cmd/ctrl + C</kbd>
-   to select all the contents and copy them. Paste them into thew new gist file.
+   Hint: to copy the contents of this file, go to the [Raw view of this
+   file](https://raw.githubusercontent.com/hora/lhl-w10d3/master/research-topics/imposter-syndrome-is-victim-blaming/README.md).
+   After that, use <kbd>Cmd/ctrl + A</kbd> then <kbd>Cmd/ctrl + C</kbd>
+   to select all the contents and copy them. Paste them into the new gist file.
 
    Hint: Name your gist `worksheet.md` so that GitHub formats it correctly.
 
