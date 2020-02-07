@@ -13,8 +13,9 @@ Then, individually, read the following article (20 mins):
 After having read the article above, discuss the following questions and keep
 notes on your answers. Bullet points are fine.
 
-You can keep the notes in a text file, a secret gist, a blank piece of paper –
-anything you can share with Horațiu when you're done.
+You can keep the notes in a text file, a secret gist, a blank piece of paper, or
+anywhere else, as long as you'll be able to share it with Horațiu when you're
+done.
 
 1. ZZZ
 
