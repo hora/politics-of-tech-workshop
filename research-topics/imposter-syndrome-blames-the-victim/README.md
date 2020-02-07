@@ -1,4 +1,4 @@
-# Imposter syndrome is victim blaming – Worksheet
+# Imposter syndrome blames the victim – Worksheet
 
 You have 60 minutes _including a ten minute break._ 4 questions.
 As a group, decide when in the 60 minutes you want to take your break.
