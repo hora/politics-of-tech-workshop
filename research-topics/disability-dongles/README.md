@@ -1,4 +1,4 @@
-# Imposter syndrome blames the victim – Worksheet
+# Disability dongles – Worksheet
 
 You have 60 minutes _including a ten minute break._ 4 questions.
 As a group, decide when in the 60 minutes you want to take your break.
@@ -6,7 +6,7 @@ As a group, decide when in the 60 minutes you want to take your break.
 Assign one member of your group as note taker, and another as presenter.
 
 Then, individually, read the following article:
-[https://modelviewculture.com/pieces/how-the-rhetoric-of-imposter-syndrome-is-used-to-gaslight-women-in-tech](https://modelviewculture.com/pieces/how-the-rhetoric-of-imposter-syndrome-is-used-to-gaslight-women-in-tech)
+[https://www.vox.com/first-person/2019/4/30/18523006/disabled-wheelchair-access-ramps-stair-climbing](https://www.vox.com/first-person/2019/4/30/18523006/disabled-wheelchair-access-ramps-stair-climbing)
 
 ## Discussion questions
 
@@ -20,16 +20,16 @@ about.
 
 1. Discuss the article. What did you find confusing and/or insightful?
 
-2. The author mentions several examples of how the feeling of 'imposter
-   syndrome' is created by environmental factors. List three of them.
+2. The article mentions several examples of how social or environmental factors
+   create accessibility problems. List three. (You may also think of examples
+   beyond this article).
 
-3. List three ways that toxic work environments in tech might limit the growth
-   or career development of people currently under-represented in tech (ex.
-   women, Black people, Indigenous people, etc).
+3. Compare and contrast how disabled and non-disabled people think about
+   'disability dongles.'
 
-4. Have you personally encountered the term 'imposter syndrome'? Where and in
-   what context? How else could you think about that situation after reading
-   this article?
+4. A common expression in the disability community is "Nothing about us, without
+   us." If this were a motto for designing web apps, how might we approach
+   development?
 
 If you're done early and have already taken your break, you may want to have a
 look at the resources in the [Further Reading document]().

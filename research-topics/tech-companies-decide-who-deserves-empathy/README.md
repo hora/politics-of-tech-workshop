@@ -1,6 +1,6 @@
 # Tech companies decide who deserves empathy – Worksheet
 
-You have 60 minutes _including a ten minute break._ ZZZ questions.
+You have 60 minutes _including a ten minute break._ 4 questions.
 As a group, decide when in the 60 minutes you want to take your break.
 
 Assign one member of your group as note taker, and another as presenter.
