@@ -24,8 +24,8 @@ about.
    syndrome' is created by environmental factors. List three of them.
 
 3. List three ways that toxic work environments in tech might limit the growth
-   or career development of women, Black people, Latinx people or other people
-   currently under-represented in tech.
+   or career development of people currently under-represented in tech (ex.
+   women, Black people, Indigenous people, etc).
 
 4. Have you personally encountered the term 'imposter syndrome'? Where and in
    what context? How else could you think about that situation after reading
