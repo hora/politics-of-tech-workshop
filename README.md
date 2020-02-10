@@ -16,7 +16,7 @@ From the article:
 Read about how this happened despite the fact the algorithm's developers
 excluded race data from their calcuations.
 
-## [Commercial content moderation](/research-topics/commercial-content-moderation)
+## [Commercial content moderation](/research-topics/comercial-content-moderation)
 
 From the article:
 
@@ -25,7 +25,7 @@ From the article:
 > content posted to social media sites like Facebook and YouTube and in the
 > comments sections of brand-aware websites for consumer products.
 
-Read about the hidden labourers that keeps the internet useable, and their
+Read about the hidden labourers that keep the internet useable, and their
 exploitative and dangerous working conditions.
 
 ## [Data centres and the environment](/research-topics/data-centres-and-the-environment)
