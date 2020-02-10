@@ -59,8 +59,8 @@ Read about how nondisabled developers of technology make assumptions about
 disabled people and their needs, creating expensive and unnecessary devices
 instead of listening to the disabled community.
 
-## [Imposter syndrome blames the
-victim](/research-topics/imposter-syndrome-blames-the-victim)
+## [Imposter syndrome blames the victim]
+(/research-topics/imposter-syndrome-blames-the-victim)
 
 From the article:
 
