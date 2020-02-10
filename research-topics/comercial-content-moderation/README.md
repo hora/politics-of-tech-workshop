@@ -30,6 +30,3 @@ about.
 
    Hint: the article mentions a few.
 
-If you're done early and have already taken your break, you may want to have a
-look at the resources in the [Further Reading document]().
-
