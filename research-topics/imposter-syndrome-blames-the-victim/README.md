@@ -31,6 +31,3 @@ about.
    what context? How else could you think about that situation after reading
    this article?
 
-If you're done early and have already taken your break, you may want to have a
-look at the resources in the [Further Reading document]().
-
