@@ -4,8 +4,7 @@ Together with your group, read through the topics below, then pick one that
 sounds interesting to you. Follow the link to a short reading and a worksheet
 related to that topic.
 
-## [Algorithmic bias and racial
-discrimination](/research-topics/algorithmic-bias-and-racial-discrimination)
+## [Algorithmic bias and racial discrimination](/research-topics/algorithmic-bias-and-racial-discrimination)
 
 From the article:
 
@@ -17,8 +16,7 @@ From the article:
 Read about how this happened despite the fact the algorithm's developers
 excluded race data from their calcuations.
 
-## [Commercial content
-moderation](/research-topics/commercial-content-moderation)
+## [Commercial content moderation](/research-topics/commercial-content-moderation)
 
 From the article:
 
@@ -30,8 +28,7 @@ From the article:
 Read about the hidden labourers that keeps the internet useable, and their
 exploitative and dangerous working conditions.
 
-## [Data centres and the
-environment](/research-topics/data-centres-and-the-environment)
+## [Data centres and the environment](/research-topics/data-centres-and-the-environment)
 
 From the article:
 
@@ -59,8 +56,7 @@ Read about how nondisabled developers of technology make assumptions about
 disabled people and their needs, creating expensive and unnecessary devices
 instead of listening to the disabled community.
 
-## [Imposter syndrome blames the victim]
-(/research-topics/imposter-syndrome-blames-the-victim)
+## [Imposter syndrome blames the victim](/research-topics/imposter-syndrome-blames-the-victim)
 
 From the article:
 
@@ -74,8 +70,7 @@ From the article:
 Read about how imposter syndrome blames victims instead of focusing on the toxic
 environments that make them feel like they don't belong.
 
-## [Tech companies decide who deserves
-empathy](/research-topics/tech-companies-decide-who-deserves-empathy)
+## [Tech companies decide who deserves empathy](/research-topics/tech-companies-decide-who-deserves-empathy)
 
 From the article:
 
