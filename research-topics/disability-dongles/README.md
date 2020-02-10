@@ -31,6 +31,3 @@ about.
    us." If this were a motto for designing web apps, how might we approach
    development?
 
-If you're done early and have already taken your break, you may want to have a
-look at the resources in the [Further Reading document]().
-
