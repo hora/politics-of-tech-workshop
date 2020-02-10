@@ -42,6 +42,3 @@ about.
       to those skills or resources?
     - What values does the app express about society or the future?
 
-If you're done early and have already taken your break, you may want to have a
-look at the resources in the [Further Reading document]().
-
