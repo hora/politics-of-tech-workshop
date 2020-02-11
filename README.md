@@ -72,6 +72,9 @@ environments that make them feel like they don't belong.
 
 ## [Tech companies decide who deserves empathy](/research-topics/tech-companies-decide-who-deserves-empathy)
 
+**Content warning:** the article briefly describes the aftermath of terrorist
+attacks, violence, and natural disasters.
+
 From the article:
 
 > The people who run the Internet platforms are making calls about who they

@@ -8,6 +8,9 @@ Assign one member of your group as note taker, and another as presenter.
 Then, individually, read the following article:
 [https://medium.com/message/the-politics-of-empathy-and-the-politics-technology-664437b6427](https://medium.com/message/the-politics-of-empathy-and-the-politics-technology-664437b6427)
 
+**Content warning:** the article briefly describes the aftermath of terrorist
+attacks, violence, and natural disasters.
+
 ## Discussion questions
 
 After having read the article above, discuss the following questions and keep
