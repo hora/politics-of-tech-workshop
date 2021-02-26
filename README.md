@@ -1,5 +1,14 @@
 # The politics of tech
 
+_Note: This repo is a collection of readings and associated discussion prompts
+that I created for bootcamp students as an advanced lecture at Lighthouse Labs._
+
+_The readings and discussion prompts were designed for web development students
+with no particular background in Science and Technology Studies.
+The readings are meant to be short and introductory, encouraging students to
+start to think about tech in more critical ways, as well as to continue learning
+about the politics of tech on their own._
+
 Together with your group, read through the topics below, then pick one that
 sounds interesting to you. Follow the link to a short reading and a worksheet
 related to that topic.
