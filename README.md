@@ -9,6 +9,10 @@ The readings are meant to be short and introductory, encouraging students to
 start to think about tech in more critical ways, as well as to continue learning
 about the politics of tech on their own._
 
+---
+
+## Instructions
+
 Together with your group, read through the topics below, then pick one that
 sounds interesting to you. Follow the link to a short reading and a worksheet
 related to that topic.
