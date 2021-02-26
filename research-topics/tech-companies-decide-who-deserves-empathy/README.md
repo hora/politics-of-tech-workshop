@@ -6,6 +6,10 @@ As a group, decide when in the 60 minutes you want to take your break.
 Assign one member of your group as note taker, and another as presenter.
 
 Then, individually, read the following article:
+
+"The politics of empathy and the politics of technology" by Zeynep Tufecki
+for The Message. Published Nov 24, 2015.
+
 [https://medium.com/message/the-politics-of-empathy-and-the-politics-technology-664437b6427](https://medium.com/message/the-politics-of-empathy-and-the-politics-technology-664437b6427)
 
 **Content warning:** the article briefly describes the aftermath of terrorist
@@ -17,7 +21,7 @@ After having read the article above, discuss the following questions and keep
 notes on your answers. Bullet points are fine.
 
 You can keep the notes in a text file, a secret gist, a blank piece of paper, or
-anywhere else, as long as you'll be able to share it with Horațiu when you're
+anywhere else, as long as you'll be able to share it with your teacher when you're
 done. Add a note also about who is on your team and what topic you're discussing
 about.
 
